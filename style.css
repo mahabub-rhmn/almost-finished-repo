@@ -1,14 +1,36 @@
-*{
+/* *{
+ background-image: url(bg.jpg);
+ background-repeat: no-repeat;
+ border-block: ;
+ background-size: cover;
+} */
 
+body{
     background-image: url(bg.jpg);
-    background-size: cover;
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
-.top{
+.first{
 
-    border: gold 2px;
+    margin: 20px ;
+    font-size: 100px;
+    font-family: cursive;
+    display: block;
+
+}
+
+.second{
+    text-align: center;
+    margin: 50px 450px;
+    border: solid #70D6C5 2px;
+    background-color: #70D6C5;
+    box-shadow: #1B2346 8px 13px 10px ;
+    padding: 5px 2px;
     border-radius: 20px;
-    background-color: goldenrod;
-    display: inline-block 20px;
+    /* box-sizing: border-box 20%; */
+    display: block;
+    font-size: 20px;
+    width: 250px;
+
 }
