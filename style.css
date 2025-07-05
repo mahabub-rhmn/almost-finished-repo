@@ -1,0 +1,14 @@
+*{
+
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.top{
+
+    border: gold 2px;
+    border-radius: 20px;
+    background-color: goldenrod;
+    display: inline-block 20px;
+}
