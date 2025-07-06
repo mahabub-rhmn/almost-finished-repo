@@ -3,13 +3,14 @@ body{
     background-image: url(xm7u_2frx_210816.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    
 }
 .head{
     border: #235347 2px;
     border-radius: 15px;
     background-color: #235347;
-    box-shadow: #48736b 8px 5px 2px ;
-    margin: 20px; 
+    box-shadow: #000000 8px 5px 8px ;
+    margin: 20px 50px; 
     text-align: center;
     font-family: cursive;
     font-size: larger;
@@ -24,7 +25,7 @@ body{
     border: 2px whitesmoke;
     border-radius: 6px;
     background-color: #8eb69b;
-    font-size: 20px;
+    font-size: 17px;
     color: white;
     padding: 20px;
     width: 250px;
@@ -38,7 +39,7 @@ body{
     border: #8eb69b 2px;
     border-radius: 6px;
     background-color: #8eb69b;
-    font-size: 20px;
+    font-size: 17px;
     color: white;
     padding: 20px;
     width: 250px;
@@ -52,7 +53,7 @@ body{
     border: #8eb69b 2px;
     border-radius: 6px;
     background-color: #8eb69b;
-    font-size: 20px;
+    font-size: 17px;
     color: white;
     padding: 20px;
     width: 250px;
@@ -66,9 +67,19 @@ body{
     border: #8eb69b 2px;
     border-radius: 6px;
     background-color: #8eb69b;
-    font-size: 20px;
+    font-size: 17px;
     color: white;
     padding: 20px;
     width: 250px;
 
+}
+
+footer{
+
+    border: white 2px;
+    margin: 20px 600px 20px;
+    width: 100px;
+    text-align: center;
+    background: transparent 200px;
+    color: bisque;
 }
